@@ -255,3 +255,4 @@ That patience and methodology is what separates a skilled ethical hacker from so
 ---
 
 *Written by a 3rd year Electronics & Telecommunication Engineering student with a minor in Cybersecurity. All techniques described are for educational purposes and authorized penetration testing only. Always obtain proper written permission before conducting any reconnaissance on systems you do not own.*
+*— [GitHub](https://github.com/ChandanS07/) | [LinkedIn](https://www.linkedin.com/in/chandankumar-singh-05a21328b/)*
